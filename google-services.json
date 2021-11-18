@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12334493224",
+    "project_id": "auth-development-5e558",
+    "storage_bucket": "auth-development-5e558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12334493224:android:7dfb3e0d840e8182160f1d",
+        "android_client_info": {
+          "package_name": "com.bisi.navigatin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12334493224-mtcbh4e3d2krdiql8lgs72o9n6a3j0do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxqqLHKtdFAsGpxTduNlwLJztc7F75R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12334493224-mtcbh4e3d2krdiql8lgs72o9n6a3j0do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
